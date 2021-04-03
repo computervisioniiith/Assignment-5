@@ -36,5 +36,5 @@ Now Naruto is ready with his setup and is time to show who's the boss. Rip up th
 ## Dataset
 It is available [here](). There are approx 9233 images in train and 484 images in test set. 
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-QoEtTmQA1QzOJabEmGLd-UV81DflK7BKp89CQKm-mfgpMGTLvBqECUCUvLBgOmyDoJQ&usqp=CAU)
-Dont Let Naruto Down. Believe it
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-QoEtTmQA1QzOJabEmGLd-UV81DflK7BKp89CQKm-mfgpMGTLvBqECUCUvLBgOmyDoJQ&usqp=CAU)  
+Dont Let Naruto Down. Believe it 
