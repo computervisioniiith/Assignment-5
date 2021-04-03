@@ -3,6 +3,7 @@
 Naruto preparing to clear this exams to achieve his dream of becoming the Hokage(Leader of the village) and earn everyone's respect. However, the contest requires DL and CV skills and unfortunately all he knows is to shout "dattebayo". Thats where you come in.
 
 ## Training Arc
+![](https://qph.fs.quoracdn.net/main-qimg-93da9187018ebbd17d07aca8763f4283.webp)  
 Help Naruto write a small image classifier in any framework of your choice (pytorch,keras,mxnet). You need to write the dataloader, the model and the training code yourself. You need to make a report with the following analysis:
 - With Batch Norm
 - Adding new layers
@@ -21,6 +22,8 @@ Experiment with
 - CutMix Augmentation
 
 ## Tournament Arc
+![](https://thumbs.gfycat.com/MellowWellgroomedKiskadee-size_restricted.gif)
+
 Now Naruto is ready with his setup and is time to show who's the boss. Rip up those pretrained models and out think your competition with different training strategies and help Naruto top the leaderboard. For this you need to submit the csv file and notebook on the AIcrowd portal. Scoring will be based on:
 
 + Genin : F1 score > 0.28
@@ -33,4 +36,5 @@ Now Naruto is ready with his setup and is time to show who's the boss. Rip up th
 ## Dataset
 It is available [here](). There are approx 9233 images in train and 484 images in test set. 
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-QoEtTmQA1QzOJabEmGLd-UV81DflK7BKp89CQKm-mfgpMGTLvBqECUCUvLBgOmyDoJQ&usqp=CAU)
 Dont Let Naruto Down. Believe it
