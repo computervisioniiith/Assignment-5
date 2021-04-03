@@ -1,6 +1,6 @@
 # Assignment-5 : Chunnin Exams - Whats Cookin?
 
-[AICrowd Portal](https://www.aicrowd.com/challenges/food-recognition-assignment-cv-2021)
+[AICrowd Portal](https://www.aicrowd.com/challenges/chunin-exams-food-track-cv-2021)
 
 Naruto preparing to clear this exams to achieve his dream of becoming the Hokage(Leader of the village) and earn everyone's respect. However, the contest requires DL and CV skills and unfortunately all he knows is to shout "dattebayo". Thats where you come in.
 
@@ -26,7 +26,7 @@ Experiment with
 ## Tournament Arc
 ![](https://thumbs.gfycat.com/MellowWellgroomedKiskadee-size_restricted.gif)
 
-Now Naruto is ready with his setup and is time to show who's the boss. Rip up those pretrained models and out think your competition with different training strategies and help Naruto top the leaderboard. For this you need to submit the csv file and notebook on the [AIcrowd portal](https://www.aicrowd.com/challenges/food-recognition-assignment-cv-2021) . Scoring will be based on:
+Now Naruto is ready with his setup and is time to show who's the boss. Rip up those pretrained models and out think your competition with different training strategies and help Naruto top the leaderboard. For this you need to submit the csv file and notebook on the [AIcrowd portal]https://www.aicrowd.com/challenges/chunin-exams-food-track-cv-2021/resources) . Scoring will be based on:
 
 + Genin : F1 score > 0.28
 + Chunnin  : F1 score > 0.45
