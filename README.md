@@ -36,7 +36,7 @@ Now Naruto is ready with his setup and is time to show who's the boss. Rip up th
 **Note: There will be strict plagirism check on the notebook. You are allowed to use any library for this part. However the notebook should have the training code.**
 
 ## Dataset
-It is available [here](). There are approx 9233 images in train and 484 images in test set. 
+It is available [here](https://www.aicrowd.com/challenges/chunin-exams-food-track-cv-2021/dataset_files). There are approx 9233 images in train and 484 images in test set. You can use the commands given in Baseline_CV notebook to download the dataset. Using those commands you can run it on colab directly
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXHpCkoea3SmhRAjMKyHui8KC24q5T-TUQWYfnNA0qfg2Y2Tp5Lx8tU18NS7X1_0YiX5U&usqp=CAU)  
 Dont Let Naruto Down. Believe it 
