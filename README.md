@@ -26,7 +26,7 @@ Experiment with
 ## Tournament Arc
 ![](https://thumbs.gfycat.com/MellowWellgroomedKiskadee-size_restricted.gif)
 
-Now Naruto is ready with his setup and is time to show who's the boss. Rip up those pretrained models and out think your competition with different training strategies and help Naruto top the leaderboard. For this you need to submit the csv file and notebook on the [AIcrowd portal]https://www.aicrowd.com/challenges/chunin-exams-food-track-cv-2021/resources) . Scoring will be based on:
+Now Naruto is ready with his setup and is time to show who's the boss. Rip up those pretrained models and out think your competition with different training strategies and help Naruto top the leaderboard. For this you need to submit the csv file and notebook on the [AIcrowd portal](https://www.aicrowd.com/challenges/chunin-exams-food-track-cv-2021) . Scoring will be based on:
 
 + Genin : F1 score > 0.28
 + Chunnin  : F1 score > 0.45
